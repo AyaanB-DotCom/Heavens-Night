@@ -2,9 +2,6 @@
 
 # Heaven's Night
 
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/cbd08448-e149-47f6-b019-4621209283e5" />
-
-
 ### A Digital Forensics and Malware Analysis Investigation
 
 ![Status](https://img.shields.io/badge/status-active%20investigation-orange)
